@@ -1,5 +1,5 @@
 // Produto.java
-package com.mycompany.mavenproject;
+package SistemaCompras;
 
 /**
  * Classe de entidade simples que representa um Produto.

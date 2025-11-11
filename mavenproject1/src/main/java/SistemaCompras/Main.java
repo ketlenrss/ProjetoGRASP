@@ -1,6 +1,6 @@
 // No seu caso, este arquivo deve se chamar ExemploGRASP.java
 // ou você pode renomeá-lo para Principal.java
-package com.mycompany.mavenproject;
+package SistemaCompras;
 
 /**
  * Classe principal que simula a "Camada de Apresentação" (UI).

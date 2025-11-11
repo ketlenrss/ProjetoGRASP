@@ -1,5 +1,5 @@
 // ItemPedido.java
-package com.mycompany.mavenproject;
+package SistemaCompras;
 
 
 /**

@@ -1,5 +1,5 @@
 // Pedido.java
-package com.mycompany.mavenproject;
+package SistemaCompras;
 
 import java.util.ArrayList;
 import java.util.List;
